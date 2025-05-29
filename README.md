@@ -8,7 +8,7 @@ This repository contains solutions to different web development questions. You c
 👉 [View Output](https://divakhar31.github.io/Webdev/question1.html)
 
 2️⃣ **Check Number Input**  
-👉 [View Output](https://divakhar31.github.io/Webdev/question2.html)
+👉 [View Output](https://divakhar31.github.io/Webdev/question2.html) 
 
 3️⃣ **Number Loop Display**  
 👉 [View Output](https://divakhar31.github.io/Webdev/question3.html)
